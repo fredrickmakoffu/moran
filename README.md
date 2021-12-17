@@ -1,4 +1,5 @@
-# posta
+# Moran
+It's a website
 
 ## Project setup
 ```
